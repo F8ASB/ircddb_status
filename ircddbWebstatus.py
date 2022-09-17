@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#
+#GET Informations about your repeater on IRCDDB French Webpage
+#
+#F8ASB 2022 - F8ASB.COM
+#
+
 import requests
 
 url="https://status.ircddb.net/repeater.php?n=51&ctry=FRA"
