@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-#GET Informations about your repeatee on IRCDDB Database
+#GET Informations about your repeater on IRCDDB Database
 #
 #F8ASB 2022 - F8ASB.COM
 #
